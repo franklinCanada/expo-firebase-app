@@ -26,4 +26,4 @@ export { firebase };
 5. `yarn`
 6. `yarn start`
 
-<!-- I set this up to be an app to configure pop-up meals. If you were in my class you were challenged to add fields for date and place. You were also challenged to make the edit button work. -->
+I set this up to be an app to configure pop-up meals. If you were in my class you were challenged to add fields for date and place. You were also challenged to make the edit button work.
